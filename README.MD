@@ -10,7 +10,7 @@
 Este repositorio almacena todas los trabajos prácticos realizados durante la cursada de **Programación 1**.  
 
 ## 📌
-Realizacion de hasta el momento trabajo 1 y 2 de la materia Programacion 1
+Trabajos al dia hasta el momento
 
 
 > 
